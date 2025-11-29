@@ -383,9 +383,3 @@ Then open `http://localhost:3000` in your browser.
 * Integrate with real ATS via webhooks / API.
 
 ---
-
-## 12. How to Present This Project (Resume-Friendly)
-
-> Built an AI-based system that ranks resumes against job descriptions using semantic embeddings and LLM reasoning, performs skill-gap analysis, and generates personalized learning paths; designed a full-stack architecture with FastAPI, MongoDB, FAISS, and a Next.js dashboard for HR insights.
-
-You can adapt this README and simplify or extend sections based on the actual scope you implement. This structure is strong enough for internships at Microsoft, other big tech, or research-focused roles.
